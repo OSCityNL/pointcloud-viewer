@@ -9,9 +9,11 @@ Usage:
 * Open the .workspace file in repository in CodeBlocks
 * Compile and run
 
+It should look like this: http://oscity.eu/projects/ahn2-testrun/
+
 * a test XYZ pointcloud file is located in the bin/data directory (thanks to Eugene Tjoa, tjoadesign.nl)
 * you can download LAZ files of you favorite part of the Netherlands via the AHN2 Website:  http://www.ahn.nl/index.html
 * convert from LAZ to XYZ with LasTools: http://www.cs.unc.edu/~isenburg/lastools/
 
-
+Licence: WTFPL
 
