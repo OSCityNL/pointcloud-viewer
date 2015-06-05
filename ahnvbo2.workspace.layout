@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveProject path="ahnvbo2.cbp" />
+	<EditorTabsLayout layout="053de0105554b71d004761d500000002=0;ahnvbo2:src/ofApp.cpp,1;ahnvbo2:src/ofApp.h,*2;ahnvbo2:src/main.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=632;besth=142;minw=632;minh=142;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=053de0105554b71d004761d500000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_workspace_layout_file>
